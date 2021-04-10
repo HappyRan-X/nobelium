@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
+  title: "Lifer's Notion area",
+  author: 'Lifer',
   email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://notion.happyhero.xyz',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
